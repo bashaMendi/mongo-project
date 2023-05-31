@@ -1,0 +1,83 @@
+[
+    {
+        "name": "Paw Patrol Adventure Bay",
+        "info": "An interactive playset featuring the Paw Patrol pups and their rescue missions.",
+        "category": "Action Figures",
+        "img_url": "https://example.com/paw_patrol_adventure_bay.jpg",
+        "price": "$59.99",
+        "date_created": "2023-04-28"
+      },
+      {
+        "name": "Baby Alive Snackin' Luke",
+        "info": "A white baby doll that can eat, drink, and fill its diaper for realistic play.",
+        "category": "Dolls",
+        "img_url": "https://example.com/baby_alive_luke.jpg",
+        "price": "$34.99",
+        "date_created": "2023-03-12"
+      },
+      {
+        "name": "Nerf N-Strike Elite Disruptor",
+        "info": "A white-colored Nerf blaster with a rotating drum for quick-fire dart blasting.",
+        "category": "Outdoor Toys",
+        "img_url": "https://example.com/nerf_disruptor.jpg",
+        "price": "$14.99",
+        "date_created": "2023-02-18"
+      },
+      {
+        "name": "My Little Pony Magical Castle",
+        "info": "A beautiful castle playset where My Little Pony characters can have magical adventures.",
+        "category": "Playsets",
+        "img_url": "https://example.com/my_little_pony_castle.jpg",
+        "price": "$39.99",
+        "date_created": "2023-05-15"
+      },
+      {
+        "name": "Melissa & Doug White Tiger Stuffed Animal",
+        "info": "A lifelike plush white tiger toy with realistic details and high-quality craftsmanship.",
+        "category": "Stuffed Animals",
+        "img_url": "https://example.com/white_tiger_plush.jpg",
+        "price": "$24.99",
+        "date_created": "2023-03-05"
+      },
+      {
+        "name": "Teddy Bear",
+        "info": "A cuddly teddy bear with soft fur and a friendly face.",
+        "category": "Stuffed Animals",
+        "img_url": "https://example.com/teddy_bear.jpg",
+        "price": "$19.99",
+        "date_created": "2023-05-01"
+      },
+      {
+        "name": "LEGO Classic Bricks",
+        "info": "A set of versatile building blocks for endless creative possibilities.",
+        "category": "Building Blocks",
+        "img_url": "https://example.com/lego_bricks.jpg",
+        "price": "$29.99",
+        "date_created": "2023-04-15"
+      },
+      {
+        "name": "Barbie Dreamhouse",
+        "info": "A luxurious dreamhouse for Barbie and her friends to play and relax.",
+        "category": "Dolls",
+        "img_url": "https://example.com/barbie_dreamhouse.jpg",
+        "price": "$149.99",
+        "date_created": "2023-05-10"
+      },
+      {
+        "name": "Hot Wheels Race Track",
+        "info": "A thrilling race track set for high-speed Hot Wheels car action.",
+        "category": "Toy Cars",
+        "img_url": "https://example.com/hot_wheels_track.jpg",
+        "price": "$39.99",
+        "date_created": "2023-03-20"
+      },
+      {
+        "name": "FurReal Friends Kitty",
+        "info": "An interactive white kitty that moves and responds to touch and sound.",
+        "category": "Interactive Pets",
+        "img_url": "https://example.com/furreal_kitty.jpg",
+        "price": "$49.99",
+        "date_created": "2023-02-05"
+      }
+ 
+]
